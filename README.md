@@ -1,5 +1,7 @@
 # Dogak (도각)
 
+[![GitHub Repo stars](https://img.shields.io/github/stars/hanej93/dogak-releases?style=social)](https://github.com/hanej93/dogak-releases)
+
 어떤 키보드로 타이핑하든 **기계식 키보드 타건음**을 내주는 macOS 백그라운드 앱입니다.
 
 > ⚠️ 현재 **비공식 베타** 배포입니다. Apple 정식 등록(유료 서명) 전이라 설치 시 macOS 경고가 뜨며, 아래 안내대로 한 번만 풀어주면 됩니다.
@@ -66,6 +68,10 @@ xattr -dr com.apple.quarantine /Applications/Dogak.app
 ## 삭제
 
 `응용 프로그램`에서 **Dogak**을 휴지통으로 옮기면 끝입니다. (설정은 `~/Library/Application Support/Dogak/`에 남으며 지워도 됩니다.)
+
+---
+
+마음에 드셨다면 이 페이지 오른쪽 위 **⭐ Star** 버튼을 한 번 눌러주세요. 앱을 계속 만들어가는 데 큰 힘이 됩니다. (안 눌러도 앱 사용에는 전혀 지장 없어요!)
 
 ---
 
